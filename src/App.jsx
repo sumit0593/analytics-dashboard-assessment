@@ -14,7 +14,7 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("/data-to-visualize/Electric_Vehicle_Population_Data.csv");
+        const response = await axios.get("DataCopy.csv");
         const csvText = response.data;
         Papa.parse(csvText, {
           header: true,
