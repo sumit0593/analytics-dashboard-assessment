@@ -12,6 +12,7 @@ Charging Insights: Provides details on current charging status and history.
 Performance Metrics: Monitors speed, distance traveled, and other performance data.
 User Authentication: Secure login and user management features.
 Responsive Design: Mobile-friendly interface for users on the go.
+Data table report added with search functionilty.
 Technologies Used
 Frontend:
 HTML, CSS, JavaScript
