@@ -1,8 +1,25 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+EV Dashboard Project
+This project is an Electric Vehicle (EV) Dashboard application designed to provide users with insights into their electric vehicle's performance, energy consumption, charging status, and more. The dashboard visualizes various data from the EV, offering an intuitive interface for monitoring real-time statistics and performance metrics.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Real-Time Data: Displays live data from the vehicle’s sensors.
+Energy Consumption Monitoring: Visualizes energy usage over time.
+Battery Status: Shows the current battery charge and estimated range.
+Charging Insights: Provides details on current charging status and history.
+Performance Metrics: Monitors speed, distance traveled, and other performance data.
+User Authentication: Secure login and user management features.
+Responsive Design: Mobile-friendly interface for users on the go.
+Technologies Used
+Frontend:
+HTML, CSS, JavaScript
+React.js (or another frontend framework/library)
+Chart.js (for data visualization)
+papaparse to covert csv file data in json formate
+
+
+
+live server for deploy project 
+https://evdashboardmapupdemo.netlify.app/
